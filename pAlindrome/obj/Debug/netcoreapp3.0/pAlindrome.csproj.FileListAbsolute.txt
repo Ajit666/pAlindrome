@@ -1,0 +1,11 @@
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.exe
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.deps.json
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.runtimeconfig.json
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.runtimeconfig.dev.json
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.dll
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\bin\Debug\netcoreapp3.0\pAlindrome.pdb
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\obj\Debug\netcoreapp3.0\pAlindrome.csprojAssemblyReference.cache
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\obj\Debug\netcoreapp3.0\pAlindrome.AssemblyInfoInputs.cache
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\obj\Debug\netcoreapp3.0\pAlindrome.AssemblyInfo.cs
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\obj\Debug\netcoreapp3.0\pAlindrome.dll
+C:\Users\Ajit.Mishra\source\repos\pAlindrome\pAlindrome\obj\Debug\netcoreapp3.0\pAlindrome.pdb
